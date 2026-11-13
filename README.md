@@ -24,7 +24,7 @@ After training, we compressed the weights with **ZAQERIS-M3** (sub-3-bit vector 
 
 If AXIOM or our other public releases are useful to you, you can sponsor ZAQERIS Ai on GitHub. Sponsorships help pay for compute, hosting and continued open releases.
 
-[Sponsor ZAQERIS](https://github.com/sponsors/ZAQERIS)
+[Support ZAQERIS on Patreon](https://www.patreon.com/c/ZAQERISAI)
 
 ## Contact
 
